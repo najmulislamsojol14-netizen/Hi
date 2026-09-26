@@ -1,0 +1,7 @@
+{
+  "name": "ALEX",
+  "description": "AI Voice Assistant with futuristic glowing neural orb, wake word detection, voice synthesis, multi-language speech, and smart tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+rt
